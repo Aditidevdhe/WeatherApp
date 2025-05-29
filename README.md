@@ -1,7 +1,7 @@
 # BreezeBuddyy
 
 ## Live Demo
-[Click here to try the Weather App live](https://breezebuddyy.netlify.app/)
+[Click Here](https://breezebuddyy.netlify.app/)
 
 ## Overview
 A client-side web application built with vanilla JavaScript, HTML, and CSS that provides real-time weather information based on user location or searched city. It consumes the OpenWeatherMap API to fetch weather data and presents it with a clean UI.
